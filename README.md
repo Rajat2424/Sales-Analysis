@@ -1,3 +1,3 @@
-Company Sales Analysis
+# Company Sales Analysis
 
-Analyzed company sales data using Python, Pandas, NumPy, and Seaborn to identify trends, high-performing segments, and growth opportunities, and shared actionable insights to help increase sales.
+In this project, I analyzed a company’s historical sales data to uncover trends, patterns, and factors influencing revenue performance using Python, Pandas, NumPy, and Seaborn to identify trends, high-performing segments, and growth opportunities, and shared actionable insights to help increase sales.
